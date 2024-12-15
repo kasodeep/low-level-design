@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1fae390-63b2-4193-a3cc-889d473060c0" name="Changes" comment="All the Patterns, Git, Git, Git!!" />
+    <list default="true" id="a1fae390-63b2-4193-a3cc-889d473060c0" name="Changes" comment="Minor Updates!!">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +30,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2l6TcVETsO5DWlDhbLFxsLSbdYy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -37,19 +43,22 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/System Design/low-level&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Spring Boot/jwt-auth",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="factory.ingredient.clams" />
@@ -59,7 +68,20 @@
       <recent name="factory.ingredient.dough" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.HammingCode">
+    <configuration name="CRC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="errors.CRC" />
+      <module name="low-level" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="errors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Casino" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="state.Casino" />
       <module name="low-level" />
@@ -86,25 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hotel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iterator.Hotel" />
+    <configuration name="HammingCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="errors.HammingCode" />
       <module name="low-level" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="iterator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StarCafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="template.StarCafe" />
-      <module name="low-level" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="template.*" />
+          <option name="PATTERN" value="errors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,13 +136,21 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HammingCode" />
+        <item itemvalue="Application.CRC" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Dominos" />
         <item itemvalue="Application.Casino" />
-        <item itemvalue="Application.Hotel" />
-        <item itemvalue="Application.StarCafe" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -143,6 +160,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724499607277</updated>
+      <workItem from="1731503040036" duration="73000" />
+      <workItem from="1731658788964" duration="101000" />
     </task>
     <task id="LOCAL-00001" summary="Look Out And Observe....">
       <option name="closed" value="true" />
@@ -216,8 +235,19 @@
       <option name="project" value="LOCAL" />
       <updated>1725627718236</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Minor Updates!!">
+      <option name="closed" value="true" />
+      <created>1725627812048</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725627812048</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -243,7 +273,8 @@
     <MESSAGE value="The Goal was to Iterate over the States..." />
     <MESSAGE value="Composite &amp; Factory, Crazy..." />
     <MESSAGE value="All the Patterns, Git, Git, Git!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the Patterns, Git, Git, Git!!" />
+    <MESSAGE value="Minor Updates!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor Updates!!" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

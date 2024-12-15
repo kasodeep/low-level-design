@@ -11,7 +11,7 @@ public class Singleton {
     private Singleton() {
     }
 
-    public static synchronized Singleton getInstance() {
+    public static Singleton getInstance() {
         if (uniqueInstance == null) {
             uniqueInstance = new Singleton();
         }

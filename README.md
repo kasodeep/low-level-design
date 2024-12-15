@@ -2,17 +2,17 @@
 
     A Pattern is a solution to a problem in a context.
 
-## Strategy Pattern:
+## Strategy Pattern✔:
 
     It defines a family of algorithms(Duck, Fly..) encapsulated each one, and makes them interchangeable.
     Strategy lets the algorithm vary independently from client that uses it.
 
-## Observer Pattern:
+## Observer Pattern✔:
 
     It defines a one-to-many dependency between objects so that when one object changes state,
     all of its dependents are notified and updated automatically.
 
-## Decorator Pattern:
+## Decorator Pattern✔:
 
     It attaches additional responsibilities to an object dynamically.
     Decorators provide a flexible alternative to subclassing for extending functionality.
@@ -23,11 +23,11 @@
     It defines an interface for creating an object, but let subclasses decide which class to instantiate.
     Factory method lets a class defer instantiation to subclasses.
 
-## Singleton Pattern:
+## Singleton Pattern✔:
 
     It ensures a class has only one instance, and provides a global point of access to it.
 
-## Command Pattern:
+## Command Pattern✔:
 
     It encapsulates a request as an object, thereby letting you parameterize other objects with different requests,
     queue or log requests, and support undoable actions.
@@ -63,19 +63,19 @@
 
 ## Design Principles:
 
-    1. Identify the aspects of your application that vary and separate them from what stays the same.
+    1. Identify the aspects of your application that vary and separate them from what stays the same.✔
     Take the parts that vary and encapsulate them, so that later you can alter or extend the parts that vary without affecting those that don't.
 
-    2. Program to an interface, not an implementation.
+    2. Program to an interface, not an implementation.✔
     The point is to explore polymorphism, by programming to a super type so that actual runtime object isn't locked into the code.
 
-    3. Favor composition over inheritance.
+    3. Favor composition over inheritance.✔
     The HAS-A relation should be composed, as it allows to change behavior at runtime.
     
-    4. Strive for loosely coupled designs between objects that interact.
+    4. Strive for loosely coupled designs between objects that interact✔.
     The objects interact without having much knowledge about each other.
 
-    4. The Open Closed Principle.
+    4. The Open Closed Principle.✔
     Classes should be open for extension and close for modification.
 
     5. Single Responsibility Principle

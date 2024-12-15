@@ -1,10 +1,15 @@
 package singleton;
 
+/**
+ * We can also perform the lazy initialization while defining the static instance.
+ * private static ChocolateBoiler chocolateBoiler = new ChocolateBoiler();
+ */
 public class ChocolateBoiler {
 
     private static ChocolateBoiler chocolateBoiler;
 
     private boolean empty;
+
     private boolean boiled;
 
     private ChocolateBoiler() {

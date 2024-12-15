@@ -37,7 +37,6 @@ public class StatisticsDisplay implements Observer, DisplayElement {
 
     @Override
     public void display() {
-        System.out.println("Avg/Min/Max temperature = "
-                +(tempSum / numReadings) + "/" + minTemp + "/" + maxTemp);
+        System.out.println("Avg/Min/Max temperature = " + (tempSum / numReadings) + "/" + minTemp + "/" + maxTemp);
     }
 }
