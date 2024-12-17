@@ -18,10 +18,14 @@
     Decorators provide a flexible alternative to subclassing for extending functionality.
     We are adding dynamic behavior to the classes at runtime using composition.
 
-## Factory Pattern:
+## Factory Pattern✔:
 
     It defines an interface for creating an object, but let subclasses decide which class to instantiate.
     Factory method lets a class defer instantiation to subclasses.
+
+## Abstract Factory✔:
+
+    The Abstract Factory Pattern provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 
 ## Singleton Pattern✔:
 
@@ -32,17 +36,17 @@
     It encapsulates a request as an object, thereby letting you parameterize other objects with different requests,
     queue or log requests, and support undoable actions.
 
-## Adapter Pattern:
+## Adapter Pattern✔:
 
     It converts the interface of a class into another interface the client expects.
     Adapter let's classes work together that couldn't otherwise because of incompatible interfaces.
 
-## Facade Pattern:
+## Facade Pattern✔:
 
     It provides a unified interface to a set of interfaces in a subsystem.
     Facade defines a higher level interface that makes the subsystem easier to use.
 
-## Template Pattern:
+## Template Pattern✔:
 
     It defines the skeleton of an algorithm in a method, deferring some steps to subclasses.
     Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.
@@ -81,8 +85,14 @@
     5. Single Responsibility Principle
     Classes should be responsible for only one task.
 
-    6. Dependency Inversion Principle
+    6. Dependency Inversion Principle.✔
     Depend upon abstraction, do not depend upon concrete classes.
+
+    7. Principle of Least Knowledge.✔
+    Talk to only your immediate friends.
+
+    8. The Hollywood Principle.✔
+    Don't call us, We will call you!.
 
 ## Creational Patterns
 
