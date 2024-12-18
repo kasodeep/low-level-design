@@ -10,8 +10,8 @@ import java.util.ArrayList;
 public class Hotel {
 
     public static void main(String[] args) {
-        PancakeHouseMenu pancakeHouseMenu = new PancakeHouseMenu();
-        DinnerMenu dinerMenu = new DinnerMenu();
+        Menu pancakeHouseMenu = new PancakeHouseMenu();
+        Menu dinerMenu = new DinnerMenu();
 
         ArrayList<Menu> menus = new ArrayList<>();
         menus.add(pancakeHouseMenu);

@@ -1,5 +1,7 @@
 package composite;
 
+import java.util.Iterator;
+
 public abstract class MenuComponent {
 
     public abstract void add(MenuComponent menuComponent);
@@ -17,4 +19,6 @@ public abstract class MenuComponent {
     public abstract boolean isVegetarian();
 
     public abstract void print();
+
+    public abstract Iterator<MenuComponent> createIterator();
 }

@@ -51,16 +51,16 @@
     It defines the skeleton of an algorithm in a method, deferring some steps to subclasses.
     Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.
 
-## Iterator Pattern:
+## Iterator Pattern✔:
 
     It provides a way to access elements of an aggregate object sequentially without exposing its underlying representation.
 
-## Composite Pattern:
+## Composite Pattern✔:
 
     It allows you to compose objects into tree structures to represent part-whole hierarchies.
     Composite lets clients treat individual objects and composition of objects uniformly.
 
-## The State Pattern:
+## The State Pattern✔:
 
     It allows for an object to alter its behavior when its internal state changes.
     The object will appear to change its class.
@@ -82,7 +82,7 @@
     4. The Open Closed Principle.✔
     Classes should be open for extension and close for modification.
 
-    5. Single Responsibility Principle
+    5. Single Responsibility Principle.✔
     Classes should be responsible for only one task.
 
     6. Dependency Inversion Principle.✔
@@ -97,7 +97,7 @@
 ## Creational Patterns
 
     The patterns involve object instantiation and all provide a way to decouple a client from the objects it needs to instantiate.
-    Singleton, Builder, Factory.
+    Singleton, Builder, Factory (Both), Prototype.
 
 ## Structural Patterns
 

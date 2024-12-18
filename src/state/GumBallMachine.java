@@ -3,9 +3,13 @@ package state;
 public class GumBallMachine {
 
     State soldOutState;
+
     State noQuarterState;
+
     State hasQuarterState;
+
     State soldState;
+
     State winnerState;
 
     State state = soldOutState;
