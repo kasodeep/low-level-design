@@ -63,7 +63,27 @@
 ## The State Pattern✔:
 
     It allows for an object to alter its behavior when its internal state changes.
-    The object will appear to change its class.
+    The object will appear to change its class. 
+
+## Bridge Pattern✔:
+
+    The Bridge Pattern allows you to vary the implementation and the abstraction by placing the two in separate class hierarchies.
+
+## Builder Pattern✔:
+
+    Instead of using a telescoping constructor or setting multiple properties, the Builder pattern provides a clear and fluent interface to set up the desired object configuration.
+
+## Fly-Weight Pattern✔:
+
+    The Flyweight Pattern is a structural design pattern used to minimize memory usage and optimize performance by sharing as much data as possible among similar objects.
+
+## Mediator Pattern✔:
+
+    The Mediator Pattern is a behavioral design pattern that reduces the complexity of communication between multiple objects by introducing a mediator object.
+
+## Memento Pattern✔:
+
+    The Memento Pattern is a behavioral design pattern that allows capturing and restoring an object's state without exposing its internal details.
 
 ## Design Principles:
 
