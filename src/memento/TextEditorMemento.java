@@ -1,14 +1,8 @@
 package memento;
 
-public class TextEditorMemento {
+/**
+ * Memento: A snapshot of the originator’s state, stored privately.
+ */
+public record TextEditorMemento(String state) {
 
-    private final String state;
-
-    public TextEditorMemento(String state) {
-        this.state = state;
-    }
-
-    public String getState() {
-        return state;
-    }
 }

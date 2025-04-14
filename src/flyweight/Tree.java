@@ -1,5 +1,8 @@
 package flyweight;
 
+/**
+ * Flyweight: The shared object containing intrinsic state.
+ */
 public class Tree {
 
     private final int x;

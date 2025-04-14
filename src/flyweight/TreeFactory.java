@@ -3,6 +3,9 @@ package flyweight;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Flyweight Factory: Manages a pool of flyweights, ensuring reuse.
+ */
 public class TreeFactory {
 
     private static final Map<String, TreeType> treeTypes = new HashMap<>();

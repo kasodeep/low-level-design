@@ -2,6 +2,9 @@ package memento;
 
 import java.util.Stack;
 
+/**
+ * Caretaker: Manages mementos (e.g., stores them in a stack for undo operations).
+ * */
 public class CareTaker {
 
     private final Stack<TextEditorMemento> history = new Stack<>();

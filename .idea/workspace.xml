@@ -4,134 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1fae390-63b2-4193-a3cc-889d473060c0" name="Changes" comment="Iterate Over Composite, To Maintain State &amp; Combine All!">
+    <list default="true" id="d3213d7e-82da-45c2-82f3-5f8cec1277a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bridge/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bridge/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flyweight/Forest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flyweight/Forest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flyweight/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flyweight/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flyweight/TreeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flyweight/TreeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/memento/CareTaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/memento/CareTaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/memento/TextEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/memento/TextEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/memento/TextEditorMemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/memento/TextEditorMemento.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="2l6TcVETsO5DWlDhbLFxsLSbdYy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2vhsx9vgVAiXqH8fIGmoKixqGlh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
-    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Demo.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Spring Boot/jwt-auth",
+    "last_opened_file_path": "/home/night_fury_44/Codes/System Design/low-level",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="factory.ingredient.clams" />
-      <recent name="factory.ingredient.pepperoni" />
-      <recent name="factory.ingredient.cheese" />
-      <recent name="factory.ingredient.sauce" />
-      <recent name="factory.ingredient.dough" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Demo">
-    <configuration name="CRC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="errors.CRC" />
-      <module name="low-level" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="errors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="flyweight.Demo" />
+      <option name="MAIN_CLASS_NAME" value="memento.Demo" />
       <module name="low-level" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="flyweight.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dominos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factory.Dominos" />
-      <module name="low-level" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="factory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HammingCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="errors.HammingCode" />
-      <module name="low-level" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="errors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="composite.Test" />
-      <module name="low-level" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="composite.*" />
+          <option name="PATTERN" value="memento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,170 +67,30 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.HammingCode" />
-        <item itemvalue="Application.CRC" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Dominos" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a1fae390-63b2-4193-a3cc-889d473060c0" name="Changes" comment="" />
-      <created>1724499607277</created>
+      <changelist id="d3213d7e-82da-45c2-82f3-5f8cec1277a5" name="Changes" comment="" />
+      <created>1744608884247</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1724499607277</updated>
-      <workItem from="1731503040036" duration="73000" />
-      <workItem from="1731658788964" duration="101000" />
-      <workItem from="1734283455837" duration="3915000" />
-      <workItem from="1734432500839" duration="2062000" />
-      <workItem from="1734521590442" duration="2611000" />
-      <workItem from="1734694758412" duration="3129000" />
+      <updated>1744608884247</updated>
+      <workItem from="1744608886171" duration="2784000" />
     </task>
-    <task id="LOCAL-00001" summary="Look Out And Observe....">
-      <option name="closed" value="true" />
-      <created>1724586888101</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1724586888101</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Strategy is to Observe...🙄">
-      <option name="closed" value="true" />
-      <created>1724678658492</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1724678658492</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Decorating My Personality 🖤">
-      <option name="closed" value="true" />
-      <created>1724758225302</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1724758225303</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Still Am Single 🥱">
-      <option name="closed" value="true" />
-      <created>1724944545187</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1724944545187</updated>
-    </task>
-    <task id="LOCAL-00005" summary="The Command was to Adapt, But Facade 😒 came in between!">
-      <option name="closed" value="true" />
-      <created>1725103111925</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1725103111925</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Is there `Template` for Success.">
-      <option name="closed" value="true" />
-      <created>1725205024972</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1725205024972</updated>
-    </task>
-    <task id="LOCAL-00007" summary="The Goal was to Iterate over the States...">
-      <option name="closed" value="true" />
-      <created>1725299008722</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1725299008722</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Composite &amp; Factory, Crazy...🤯">
-      <option name="closed" value="true" />
-      <created>1725462592997</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1725462592997</updated>
-    </task>
-    <task id="LOCAL-00009" summary="All the Patterns, Git, Git, Git!!">
-      <option name="closed" value="true" />
-      <created>1725627718236</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1725627718236</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Minor Updates!!">
-      <option name="closed" value="true" />
-      <created>1725627812048</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1725627812048</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Still Not Giving 100%.">
-      <option name="closed" value="true" />
-      <created>1734287416713</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1734287416713</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Used Factory and Template, To Create and Define Adapter plus Facade!">
-      <option name="closed" value="true" />
-      <created>1734434556738</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1734434556738</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Iterate Over Composite, To Maintain State &amp; Combine All!">
-      <option name="closed" value="true" />
-      <created>1734524124271</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1734524124271</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
-    <MESSAGE value="Look Out And Observe...." />
-    <MESSAGE value="Strategy is to Observe..." />
-    <MESSAGE value="Decorating My Personality " />
-    <MESSAGE value="Still Am Single " />
-    <MESSAGE value="The Command was to Adapt, But Facade  came in between!" />
-    <MESSAGE value="Is there `Template` for Success." />
-    <MESSAGE value="The Goal was to Iterate over the States..." />
-    <MESSAGE value="Composite &amp; Factory, Crazy..." />
-    <MESSAGE value="All the Patterns, Git, Git, Git!!" />
-    <MESSAGE value="Minor Updates!!" />
-    <MESSAGE value="Still Not Giving 100%." />
-    <MESSAGE value="Used Factory and Template, To Create and Define Adapter plus Facade!" />
-    <MESSAGE value="Iterate Over Composite, To Maintain State &amp; Combine All!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterate Over Composite, To Maintain State &amp; Combine All!" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>

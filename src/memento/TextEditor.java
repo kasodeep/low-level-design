@@ -1,5 +1,8 @@
 package memento;
 
+/**
+ * Originator: The object whose state needs to be saved/restored.
+ * */
 public class TextEditor {
 
     private String content;
@@ -17,6 +20,6 @@ public class TextEditor {
     }
 
     public void restore(TextEditorMemento memento) {
-        this.content = memento.getState();
+        this.content = memento.state();
     }
 }

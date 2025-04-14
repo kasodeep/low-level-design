@@ -3,6 +3,9 @@ package flyweight;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Client: Maintains extrinsic state and uses flyweights.
+ */
 public class Forest {
 
     private final Map<String, Tree> trees = new HashMap<>();

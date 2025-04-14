@@ -19,10 +19,10 @@ public class Home {
         System.out.println();
 
         // Advanced Remote with Samsung TV.
-        Remote samsungRemote = new AdvancedRemoteControl(samsungTV);
+        AdvancedRemoteControl samsungRemote = new AdvancedRemoteControl(samsungTV);
         samsungRemote.turnOn();
         samsungRemote.setChannel(10);
-        ((AdvancedRemoteControl) samsungRemote).mute(); // Advanced feature.
+        samsungRemote.mute(); // Advanced feature.
         samsungRemote.turnOff();
     }
 }
