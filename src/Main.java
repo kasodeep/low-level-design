@@ -3,6 +3,7 @@
  * 2. Erasure Coding.
  * 3. Pre Signed URL.
  * 4. Kafka (Transactions)
+ * 5. Kafka (Replication, Consensus, Quorum, KRaft)
  * */
 public class Main {
     public static void main(String[] args) {
