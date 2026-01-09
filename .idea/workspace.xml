@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3213d7e-82da-45c2-82f3-5f8cec1277a5" name="Changes" comment="Want to Pre Sign My Life With Her.">
+    <list default="true" id="d3213d7e-82da-45c2-82f3-5f8cec1277a5" name="Changes" comment="SMT Deep Kasodariya reporting for duty">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,6 +168,8 @@
       <workItem from="1766213948585" duration="14000" />
       <workItem from="1766297778750" duration="26000" />
       <workItem from="1767877990973" duration="767000" />
+      <workItem from="1767879008559" duration="177000" />
+      <workItem from="1767948014227" duration="54000" />
     </task>
     <task id="LOCAL-00001" summary="Want to Pre Sign My Life With Her.">
       <option name="closed" value="true" />
@@ -177,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754909532868</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="SMT Deep Kasodariya reporting for duty">
+      <option name="closed" value="true" />
+      <created>1767879177492</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767879177493</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +196,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Want to Pre Signed My Url With Her." />
     <MESSAGE value="Want to Pre Sign My Life With Her." />
-    <option name="LAST_COMMIT_MESSAGE" value="Want to Pre Sign My Life With Her." />
+    <MESSAGE value="SMT Deep Kasodariya reporting for duty" />
+    <option name="LAST_COMMIT_MESSAGE" value="SMT Deep Kasodariya reporting for duty" />
   </component>
 </project>

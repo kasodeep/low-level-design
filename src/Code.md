@@ -11,5 +11,5 @@
 - DRY
 - Tell, don't ask
 - Law of Demeter
-
-# Design Patterns
+- Composition over Inheritance
+- Encapsulate what varies
